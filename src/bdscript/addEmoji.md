@@ -2,8 +2,8 @@
 Adds an emoji to the server.
 
 ## Syntax
-```
-$addEmoji[Name;Image URL;Return emoji?]
+$addReactions[👍🤷‍♂️👎]
+
 ```
 
 ### Parameters
